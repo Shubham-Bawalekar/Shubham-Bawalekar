@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shubham-Bawalekar
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science with Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: shubhambawalekar0045@gmail.com
 
 <!---
